@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HasselFree</string>
+    <string name="title_activity_listview">listview</string>
+    <string name="title_activity_promotionsmain">Promotionsmain</string>
+    <string name="title_activity_mainpromotions">mainpromotions</string>
+    <string name="title_activity_listpromotion">listpromotion</string>
+</resources>
